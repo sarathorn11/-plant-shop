@@ -1,0 +1,19 @@
+# NPM package repo
+/node_modules
+/package-lock.json
+
+# Enviroment Variable file
+/.env
+
+# Enviroment Variable file backup
+/.env.backup
+
+# Yarn log
+/yarn-error.log
+
+# idea
+/.idea
+
+# vscode
+/.vscode
+

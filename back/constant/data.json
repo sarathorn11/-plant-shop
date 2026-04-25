@@ -1,0 +1,1998 @@
+{
+    "items": [
+        {
+            "name": "Polyscias balfouriana",
+            "code": "A001",
+            "description": "plant Detail",
+            "imageUrl": "Polyscias_balfouriana1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 }
+            ],
+            "productCares": "MODERATE",
+            "productLights": "DIRECT LIGHT",
+            "Categories": [
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Polyscias_balfouriana1.jpg" },
+              { "name": "Polyscias_balfouriana2.jpg" },
+              { "name": "Polyscias_balfouriana3.jpg" },
+              { "name": "Polyscias_balfouriana4.jpg" },
+              { "name": "Polyscias_balfouriana5.jpg" }
+            ]
+        },
+        {
+            "name": "Calathea roseopicta",
+            "code": "A002",
+            "description": "plant Detail",
+            "imageUrl": "Calathea_roseopicta1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": "EASY",
+            "productLights": "INDIRECT LIGHT",
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Calathea_roseopicta1.jpg" },
+              { "name": "Calathea_roseopicta2.jpg" },
+              { "name": "Calathea_roseopicta3.jpg" },
+              { "name": "Calathea_roseopicta4.jpg" },
+              { "name": "Calathea_roseopicta5.jpg" }
+            ]
+        },
+        {
+            "name": "Gymnocalycium baldianum",
+            "code": "A003",
+            "description": "plant Detail",
+            "imageUrl": "Gymnocalycium_baldianum1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": "ADVANCE",
+            "productLights": "LOW LIGHT",
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Gymnocalycium_baldianum1.jpg" },
+              { "name": "Gymnocalycium_baldianum2.jpg" },
+              { "name": "Gymnocalycium_baldianum3.jpg" },
+              { "name": "Gymnocalycium_baldianum4.jpg" },
+              { "name": "Gymnocalycium_baldianum5.jpg" }
+            ]
+        },
+        {
+            "name": "Pink rain lily",
+            "code": "A004",
+            "description": "plant Detail",
+            "imageUrl": "Pink_rain_lily1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Pink_rain_lily1.jpg" },
+              { "name": "Pink_rain_lily2.jpg" },
+              { "name": "Pink_rain_lily3.jpg" },
+              { "name": "Pink_rain_lily4.jpg" },
+              { "name": "Pink_rain_lily5.jpg" }
+            ]
+        },
+        {
+            "name": "Abana plant",
+            "code": "A005",
+            "description": "plant Detail",
+            "imageUrl": "Abana_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Abana_plant1.jpg" },
+              { "name": "Abana_plant2.jpg" },
+              { "name": "Abana_plant3.jpg" },
+              { "name": "Abana_plant4.jpg" },
+              { "name": "Abana_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Desert candy",
+            "code": "A006",
+            "description": "plant Detail",
+            "imageUrl": "Desert_candy1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Desert_candy1.jpg" },
+              { "name": "Desert_candy2.jpg" },
+              { "name": "Desert_candy3.jpg" },
+              { "name": "Desert_candy4.jpg" },
+              { "name": "Desert_candy5.jpg" }
+            ]
+        },
+        {
+            "name": "Pine tree",
+            "code": "A007",
+            "description": "plant Detail",
+            "imageUrl": "Pine_tree1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Pine_tree1.jpg" },
+              { "name": "Pine_tree2.jpg" },
+              { "name": "Pine_tree3.jpg" },
+              { "name": "Pine_tree4.jpg" },
+              { "name": "Pine_tree5.jpg" }
+            ]
+        },
+        {
+            "name": "Ruby camellia",
+            "code": "A008",
+            "description": "plant Detail",
+            "imageUrl": "Ruby_camellia1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Ruby_camellia1.jpg" },
+              { "name": "Ruby_camellia2.jpg" },
+              { "name": "Ruby_camellia3.jpg" },
+              { "name": "Ruby_camellia4.jpg" },
+              { "name": "Ruby_camellia5.jpg" }
+            ]
+        },
+        {
+            "name": "Seven miniature",
+            "code": "A009",
+            "description": "plant Detail",
+            "imageUrl": "Seven_miniature1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Seven_miniature1.jpg" },
+              { "name": "Seven_miniature2.jpg" },
+              { "name": "Seven_miniature3.jpg" },
+              { "name": "Seven_miniature4.jpg" },
+              { "name": "Seven_miniature5.jpg" }
+            ]
+        },
+        {
+            "name": "Baghstore plant",
+            "code": "A010",
+            "description": "plant Detail",
+            "imageUrl": "Baghstore_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Baghstore_plant1.jpg" },
+              { "name": "Baghstore_plant2.jpg" },
+              { "name": "Baghstore_plant3.jpg" },
+              { "name": "Baghstore_plant4.jpg" },
+              { "name": "Baghstore_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Delight plant",
+            "code": "A011",
+            "description": "plant Detail",
+            "imageUrl": "Delight_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Delight_plant1.jpg" },
+              { "name": "Delight_plant2.jpg" },
+              { "name": "Delight_plant3.jpg" },
+              { "name": "Delight_plant4.jpg" },
+              { "name": "Delight_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Hardwood plant",
+            "code": "A012",
+            "description": "plant Detail",
+            "imageUrl": "Hardwood_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Hardwood_plant1.jpg" },
+              { "name": "Hardwood_plant2.jpg" },
+              { "name": "Hardwood_plant3.jpg" },
+              { "name": "Hardwood_plant4.jpg" },
+              { "name": "Hardwood_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Purifying plant",
+            "code": "A013",
+            "description": "plant Detail",
+            "imageUrl": "Purifying_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Purifying_plant1.jpg" },
+              { "name": "Purifying_plant2.jpg" },
+              { "name": "Purifying_plant3.jpg" },
+              { "name": "Purifying_plant4.jpg" },
+              { "name": "Purifying_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Salisbury plant",
+            "code": "A014",
+            "description": "plant Detail",
+            "imageUrl": "Salisbury_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Salisbury_plant1.jpg" },
+              { "name": "Salisbury_plant2.jpg" },
+              { "name": "Salisbury_plant3.jpg" },
+              { "name": "Salisbury_plant4.jpg" },
+              { "name": "Salisbury_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Flora flo",
+            "code": "A015",
+            "description": "plant Detail",
+            "imageUrl": "Flora_flo1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Flora_flo1.jpg" },
+              { "name": "Flora_flo2.jpg" },
+              { "name": "Flora_flo3.jpg" },
+              { "name": "Flora_flo4.jpg" },
+              { "name": "Flora_flo5.jpg" }
+            ]
+        },
+        {
+            "name": "Kolab flo",
+            "code": "A016",
+            "description": "plant Detail",
+            "imageUrl": "Kolab_flo1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Kolab_flo1.jpg" },
+              { "name": "Kolab_flo2.jpg" },
+              { "name": "Kolab_flo3.jpg" },
+              { "name": "Kolab_flo4.jpg" },
+              { "name": "Kolab_flo5.jpg" }
+            ]
+        },
+        {
+            "name": "Males flo",
+            "code": "A017",
+            "description": "plant Detail",
+            "imageUrl": "Malis_flo1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Malis_flo1.jpg" },
+              { "name": "Malis_flo2.jpg" },
+              { "name": "Malis_flo3.jpg" },
+              { "name": "Malis_flo4.jpg" },
+              { "name": "Malis_flo5.jpg" }
+            ]
+        },
+        {
+            "name": "Napa flo",
+            "code": "A018",
+            "description": "plant Detail",
+            "imageUrl": "Napa_flo1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Napa_flo1.jpg" },
+              { "name": "Napa_flo2.jpg" },
+              { "name": "Napa_flo3.jpg" },
+              { "name": "Napa_flo4.jpg" },
+              { "name": "Napa_flo5.jpg" }
+            ]
+        },
+        {
+            "name": "Orkide flo",
+            "code": "A019",
+            "description": "plant Detail",
+            "imageUrl": "Orkide_flo1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Orkide_flo1.jpg" },
+              { "name": "Orkide_flo2.jpg" },
+              { "name": "Orkide_flo3.jpg" },
+              { "name": "Orkide_flo4.jpg" },
+              { "name": "Orkide_flo5.jpg" }
+            ]
+        },
+        {
+            "name": "Basket plant",
+            "code": "A020",
+            "description": "plant Detail",
+            "imageUrl": "Basket_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Basket_plant1.jpg" },
+              { "name": "Basket_plant2.jpg" },
+              { "name": "Basket_plant3.jpg" },
+              { "name": "Basket_plant4.jpg" },
+              { "name": "Basket_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Seagrass plant",
+            "code": "A021",
+            "description": "plant Detail",
+            "imageUrl": "Seagrass_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Seagrass_plant1.jpg" },
+              { "name": "Seagrass_plant2.jpg" },
+              { "name": "Seagrass_plant3.jpg" },
+              { "name": "Seagrass_plant4.jpg" },
+              { "name": "Seagrass_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Vertical plant",
+            "code": "A022",
+            "description": "plant Detail",
+            "imageUrl": "Vertical_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Vertical_plant1.jpg" },
+              { "name": "Vertical_plant2.jpg" },
+              { "name": "Vertical_plant3.jpg" },
+              { "name": "Vertical_plant4.jpg" },
+              { "name": "Vertical_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Waitro plant",
+            "code": "A023",
+            "description": "plant Detail",
+            "imageUrl": "Waitro_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Waitro_plant1.jpg" },
+              { "name": "Waitro_plant2.jpg" },
+              { "name": "Waitro_plant3.jpg" },
+              { "name": "Waitro_plant4.jpg" },
+              { "name": "Waitro_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Cactus plant",
+            "code": "A024",
+            "description": "plant Detail",
+            "imageUrl": "Cactus_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Cactus_plant1.jpg" },
+              { "name": "Cactus_plant2.jpg" },
+              { "name": "Cactus_plant3.jpg" },
+              { "name": "Cactus_plant4.jpg" },
+              { "name": "Cactus_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Costa indoor",
+            "code": "A025",
+            "description": "plant Detail",
+            "imageUrl": "Costa_indoor1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Costa_indoor1.jpg" },
+              { "name": "Costa_indoor2.jpg" },
+              { "name": "Costa_indoor3.jpg" },
+              { "name": "Costa_indoor4.jpg" },
+              { "name": "Costa_indoor5.jpg" }
+            ]
+        },
+        {
+            "name": "heart leaves",
+            "code": "A026",
+            "description": "plant Detail",
+            "imageUrl": "heart_leaves1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "heart_leaves1.jpg" },
+              { "name": "heart_leaves2.jpg" },
+              { "name": "heart_leaves3.jpg" },
+              { "name": "heart_leaves4.jpg" },
+              { "name": "heart_leaves5.jpg" }
+            ]
+        },
+        {
+            "name": "Oasis plant",
+            "code": "A027",
+            "description": "plant Detail",
+            "imageUrl": "Oasis_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Oasis_plant1.jpg" },
+              { "name": "Oasis_plant2.jpg" },
+              { "name": "Oasis_plant3.jpg" },
+              { "name": "Oasis_plant4.jpg" },
+              { "name": "Oasis_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Stamen Stem",
+            "code": "A028",
+            "description": "plant Detail",
+            "imageUrl": "Stamen_Stem1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Stamen_Stem1.jpg" },
+              { "name": "Stamen_Stem2.jpg" },
+              { "name": "Stamen_Stem3.jpg" },
+              { "name": "Stamen_Stem4.jpg" },
+              { "name": "Stamen_Stem5.jpg" }
+            ]
+        },
+        {
+            "name": "Anthurium plant",
+            "code": "A029",
+            "description": "plant Detail",
+            "imageUrl": "Anthurium_plant1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Anthurium_plant1.jpg" },
+              { "name": "Anthurium_plant2.jpg" },
+              { "name": "Anthurium_plant3.jpg" },
+              { "name": "Anthurium_plant4.jpg" },
+              { "name": "Anthurium_plant5.jpg" }
+            ]
+        },
+        {
+            "name": "Philodendron billietiae",
+            "code": "A030",
+            "description": "plant Detail",
+            "imageUrl": "Philodendron_billietiae1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Philodendron_billietiae1.jpg" },
+              { "name": "Philodendron_billietiae2.jpg" },
+              { "name": "Philodendron_billietiae3.jpg" },
+              { "name": "Philodendron_billietiae4.jpg" },
+              { "name": "Philodendron_billietiae5.jpg" }
+            ]
+        },
+        {
+            "name": "Syngonium butterfly",
+            "code": "A031",
+            "description": "plant Detail",
+            "imageUrl": "Syngonium_butterfly1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Syngonium_butterfly1.jpg" },
+              { "name": "Syngonium_butterfly2.jpg" },
+              { "name": "Syngonium_butterfly3.jpg" },
+              { "name": "Syngonium_butterfly4.jpg" },
+              { "name": "Syngonium_butterfly5.jpg" }
+            ]
+        },
+        {
+            "name": "Syngonium godzilla",
+            "code": "A032",
+            "description": "plant Detail",
+            "imageUrl": "Syngonium_godzilla1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Syngonium_godzilla1.jpg" },
+              { "name": "Syngonium_godzilla2.jpg" },
+              { "name": "Syngonium_godzilla3.jpg" },
+              { "name": "Syngonium_godzilla4.jpg" },
+              { "name": "Syngonium_godzilla5.jpg" }
+            ]
+        },
+        {
+            "name": "Philodendron brandtianum",
+            "code": "A033",
+            "description": "plant Detail",
+            "imageUrl": "Philodendron_brandtianum1.jpg",
+            "ProductSizes": [
+              { "name": "SMALL", "price": 3 },
+              { "name": "MEDIUM", "price": 5 },
+              { "name": "LARGE", "price": 8 }
+            ],
+            "productCares": [
+              { "name": "ADVANCE" },
+              { "name": "EASY" },
+              { "name": "MODERATE" }
+            ],
+            "productLights": [
+              { "name": "DIRECT LIGHT" },
+              { "name": "INDIRECT LIGHT" },
+              { "name": "LOW LIGHT" }
+            ],
+            "PlantTypes": [
+              { "name": "MEDICINE PLANTS" },
+              { "name": "SUCCULENTS PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FLOOR PLANTS" },
+              { "name": "BONSAI PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "HANGING PLANTS" },
+              { "name": "HOUSE PLANTS" },
+              { "name": "OUTDOOR PLANTS" },
+              { "name": "RARE PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "TROPICAL PLANTS" }
+            ],
+            "PlantGifts": [
+              { "name": "BIRTHDAY COLLECTION" },
+              { "name": "FRIENDSHIP DAY GIFTS" },
+              { "name": "CORPORATE GIFTS" },
+              { "name": "BACK TO SCHOOL GIFTS" },
+              { "name": "SYMPATHY PLANTS" },
+              { "name": "GIFTS FOR PARENTS" },
+              { "name": "HOUSEWARMING COLLECTION" },
+              { "name": "GRANDPARENTS DAY GIFTS" },
+              { "name": "THANK YOU COLLECTION" }
+            ],
+            "PlantLifeStyles": [
+              { "name": "FENG SHUI PLANTS" },
+              { "name": "FARM PLANTS" },
+              { "name": "FRUIT PLANTS" },
+              { "name": "FLOWERING PLANTS" },
+              { "name": "PLANTS FOR BEGINNERS" },
+              { "name": "AIR PURIFYING PLANTS" },
+              { "name": "ZODIAC PLANTS" }
+            ],
+            "ProductImages": [
+              { "name": "Philodendron_brandtianum1.jpg" },
+              { "name": "Philodendron_brandtianum2.jpg" },
+              { "name": "Philodendron_brandtianum3.jpg" },
+              { "name": "Philodendron_brandtianum4.jpg" },
+              { "name": "Philodendron_brandtianum5.jpg" }
+            ]
+        }
+    ]
+}
