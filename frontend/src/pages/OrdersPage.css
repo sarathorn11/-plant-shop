@@ -1,0 +1,345 @@
+.orders-page {
+  padding: 2rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  overflow-y: auto;
+}
+
+.orders-page-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.orders-page-header h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.orders-page-header p {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}
+
+.orders-list-wrapper {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.orders-list-header {
+  display: flex;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-tertiary);
+  border-bottom: 1px solid var(--border-color);
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.orders-list {
+  display: flex;
+  flex-direction: column;
+  max-height: 440px; /* Approximately 7 items in ultra-compact mode */
+  overflow-y: auto;
+}
+
+.order-list-item {
+  display: flex;
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+  align-items: center;
+  transition: all 0.2s ease;
+  cursor: pointer;
+}
+
+.order-list-item:last-child {
+  border-bottom: none;
+}
+
+.order-list-item:hover {
+  background: var(--bg-tertiary);
+}
+
+.col-id {
+  flex: 1.5;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.order-number {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.order-date {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.col-items {
+  flex: 3;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  overflow: hidden;
+  padding-right: 1.5rem;
+}
+
+.item-count-badge {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--accent-hover);
+  background: rgba(245, 158, 11, 0.1);
+  padding: 2px 10px;
+  border-radius: 12px;
+  width: fit-content;
+  border: 1px solid rgba(245, 158, 11, 0.2);
+}
+
+.item-preview-text {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.col-total {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.order-price {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.col-actions {
+  flex: 0.5;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.btn-view-details {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: all 0.2s;
+  white-space: nowrap;
+}
+
+.btn-view-details:hover {
+  background: var(--bg-tertiary);
+  border-color: var(--text-secondary);
+}
+
+.empty-state {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 2rem;
+  background: var(--bg-secondary);
+  border-radius: 16px;
+  border: 1px dashed var(--border-color);
+  color: var(--text-secondary);
+  gap: 1rem;
+}
+
+/* Modal specific for Orders */
+.order-detail-header {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.order-detail-header h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.detail-meta {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.detail-list, .receipt-items {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  max-height: 240px; /* Even tighter for better laptop fit */
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+.receipt-items {
+  margin-top: 1rem;
+}
+
+.detail-item-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: var(--bg-tertiary);
+  border-radius: 8px;
+  border: 1px solid transparent;
+}
+
+.item-info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.item-qty {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  font-weight: 600;
+  font-size: 0.9rem;
+  border: 1px solid var(--border-color);
+}
+
+.item-name {
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.item-price {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.detail-summary {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.detail-summary-row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 300px;
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+/* Pagination Styles */
+.pagination-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: var(--bg-tertiary);
+  border-top: 1px solid var(--border-color);
+}
+
+.page-size-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.page-size-selector select {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.page-size-selector select:hover {
+  border-color: var(--text-secondary);
+}
+
+.pagination-nav {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.pagination-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-primary);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.pagination-btn:hover:not(:disabled) {
+  background: var(--bg-tertiary);
+  border-color: var(--text-secondary);
+}
+
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  background: var(--bg-secondary);
+}
+
+.pagination-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 120px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.pagination-total-items {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  font-weight: 400;
+}
